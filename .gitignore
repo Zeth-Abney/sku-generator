@@ -2,3 +2,8 @@ venv/
 
 # Results directory - contains generated CSV files
 Results/
+
+# Database files - local SQLite database
+*.db
+*.sqlite
+*.sqlite3
