@@ -7,3 +7,6 @@ Results/
 *.db
 *.sqlite
 *.sqlite3
+
+# But allow demo database for portfolio
+!demo_prototype.db
